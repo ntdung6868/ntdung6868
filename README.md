@@ -57,20 +57,6 @@
 
 ---
 
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<br>
-<div align=center>
-   <a href="#" title="ntdung6868">
-    <img align=center src="https://github-readme-stats.vercel.app/api?username=ntdung6868&show_icons=true&theme=react&border_color=61dafb&hide_border=false&rank_icon=github" />
-   </a>
-   <a href="#" title="ntdung6868">
-    <img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntdung6868&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=false" />
-  </a>
-</div>
-
----
-
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
 <!-- https://icons8.com -->
@@ -84,6 +70,28 @@
     <a href="mailto:ntdungqlqb@gmail.com" target="top">
         <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="ntdung6868-email" />
     </a>
+</div>
+
+---
+
+<h2 align="center">🔥 GitHub Stats 🔥</h2>
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<br>
+<div align=center>
+   <a href="#" title="ntdung6868">
+    <img align=center src="https://github-readme-stats.vercel.app/api?username=ntdung6868&show_icons=true&theme=react&border_color=61dafb&hide_border=false&rank_icon=github" />
+   </a>
+</div>
+
+---
+
+<h2 align="center">🔥  Top Usage Languages 🔥</h2>
+<br>
+
+<div align=center>
+   <a href="#" title="ntdung6868">
+    <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntdung6868&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=false" />
+  </a>
 </div>
 
 ---
