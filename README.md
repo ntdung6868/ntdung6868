@@ -1,6 +1,6 @@
 <div align="center">
   <a href="http://webdesigner.id.vn">
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2VrMmQyYnBnczA3Y2tvZXlkcDdta2s5ZGM5dTRxdWJhZm9vcjU3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="MasterHead" width="100%">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2VrMmQyYnBnczA3Y2tvZXlkcDdta2s5ZGM5dTRxdWJhZm9vcjU3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="MasterHead" width="80%" height="368px">
   </a>
 </div>
 
