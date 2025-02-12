@@ -1,3 +1,9 @@
+<div align="center">
+  <a href="http://webdesigner.id.vn">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2VzZ2MyNDgwaDF2M3V5bThxbWk3bXVlazFybXZsMnFxeXdtZnJneCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="MasterHead">
+  </a>
+</div>
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Tri+Dung+Nguyen;Nice+to+meet+you!&center=true&size=30">
