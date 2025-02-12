@@ -64,7 +64,7 @@
     <a href="https://www.facebook.com/tridung6868" target="blank">
         <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="ntdung6868-facebook" />
     </a>
-    <a href="(https://www.linkedin.com/in/ntdungqlqb/" target="blank">
+    <a href="https://www.linkedin.com/in/ntdungqlqb/" target="blank">
         <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="ntdung6868-linkedin" />
     </a>
     <a href="mailto:ntdungqlqb@gmail.com" target="top">
