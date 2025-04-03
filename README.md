@@ -13,10 +13,10 @@
 
 ![](https://komarev.com/ghpvc/?username=ntdung6868&color=brightgreen)
 
--    Focusing on Frontend.
--    Trying to become an expert in Frontend development.
--    I love exploring new tech stacks and building cool stuff.
--    Reading tech documentation whenever possible.
+-   🔭 Focusing on Frontend.😎
+-   🌱 Trying to become an expert in Frontend development ❤
+-   💻 I love exploring new tech stacks and building cool stuff.
+-   📰 Reading tech documentation whenever possible.
 
 ---
 
