@@ -110,7 +110,7 @@ gateways like **CLIProxyAPI** and **9router**.
 [`npm`](https://www.npmjs.com/~ntdung6868) &nbsp;·&nbsp;
 [`linkedin`](https://www.linkedin.com/in/ntdungqlqb/) &nbsp;·&nbsp;
 [`facebook`](https://www.facebook.com/tridung6868) &nbsp;·&nbsp;
-[`email`](mailto:ntdungqlqb73@gmail.com)
+[`email`](mailto:ntdungdev73@gmail.com)
 
 <sub><code>$ deck --signing-off · thanks for visiting the command deck</code></sub>
 
