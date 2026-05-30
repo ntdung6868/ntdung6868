@@ -8,7 +8,7 @@
   <samp>▚&nbsp;&nbsp;TRI&nbsp;DUNG&nbsp;NGUYEN</samp>
 </h1>
 
-<a href="https://ntdung.dev">
+<a href="https://www.ntdungdev.id.vn/">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3200&pause=700&color=22D3EE&center=true&vCenter=true&width=720&height=52&lines=I+build+the+tooling+that+routes+AI.;I+ship+AI+chatbots+that+talk+to+your+customers.;I+automate+workflows+end-to-end+with+n8n.;I+build+CRMs%2C+dashboards+%26+full-stack+web+apps.;I+craft+fast%2C+custom+WordPress+sites." alt="typing signal" />
 </a>
 
@@ -16,7 +16,7 @@
   <code>Full-Stack&nbsp;·&nbsp;AI&nbsp;&amp;&nbsp;Automation&nbsp;Engineer</code>
 </p>
 
-<a href="https://ntdung.dev"><img src="https://img.shields.io/badge/▚_portfolio-ntdung.dev-22D3EE?style=for-the-badge&labelColor=0E1320" alt="portfolio" /></a>
+<a href="https://www.ntdungdev.id.vn/"><img src="https://img.shields.io/badge/▚_portfolio-ntdungdev.id.vn-22D3EE?style=for-the-badge&labelColor=0E1320" alt="portfolio" /></a>
 <a href="https://www.npmjs.com/~ntdung6868"><img src="https://img.shields.io/badge/npm-~ntdung6868-F0398B?style=for-the-badge&labelColor=0E1320&logo=npm&logoColor=F0398B" alt="npm" /></a>
 <a href="https://www.linkedin.com/in/ntdungqlqb/"><img src="https://img.shields.io/badge/linkedin-connect-22D3EE?style=for-the-badge&labelColor=0E1320&logo=linkedin&logoColor=22D3EE" alt="linkedin" /></a>
 <img src="https://komarev.com/ghpvc/?username=ntdung6868&label=DECK+VIEWS&color=22d3ee&style=for-the-badge" alt="profile views" />
@@ -54,7 +54,7 @@ gateways like **CLIProxyAPI** and **9router**.
 | **[AI Chatbot — Landing &amp; Widget ↗](https://chatbot.ntdungdev.id.vn/)** | Embeddable AI chat widget + landing for a WordPress chatbot product · _live_ | `author` |
 | **[Social Comments Scraper ↗](https://crawlcomments.duckdns.org/)** | Full-stack scraper that harvests &amp; structures social comments at scale · _live_ | `author` |
 
-> Full case studies &amp; the 3D command deck → **[ntdung.dev](https://ntdung.dev)**
+> Full case studies &amp; the 3D command deck → **[ntdungdev.id.vn](https://www.ntdungdev.id.vn/)**
 
 ---
 
@@ -106,7 +106,7 @@ gateways like **CLIProxyAPI** and **9router**.
 
 <div align="center">
 
-[`▚ portfolio`](https://ntdung.dev) &nbsp;·&nbsp;
+[`▚ portfolio`](https://www.ntdungdev.id.vn/) &nbsp;·&nbsp;
 [`npm`](https://www.npmjs.com/~ntdung6868) &nbsp;·&nbsp;
 [`linkedin`](https://www.linkedin.com/in/ntdungqlqb/) &nbsp;·&nbsp;
 [`facebook`](https://www.facebook.com/tridung6868) &nbsp;·&nbsp;
